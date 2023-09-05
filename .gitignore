@@ -1,0 +1,7 @@
+# Ignore EJS files
+*.ejs
+
+# Ignore other files or directories as needed
+# /node_modules/
+# .DS_Store
+# /build/
